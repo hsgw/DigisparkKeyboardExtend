@@ -1,0 +1,8 @@
+kbd	KEYWORD1
+update KEYWORD2
+delay KEYWORD2
+initKeyCode KEYWORD2
+registerKeyCode KEYWORD2
+sendRegisteredKeyCode KEYWORD2
+sendKeyStroke KEYWORD2
+sendString KEYWORD2
